@@ -1,0 +1,52 @@
+{ 
+  "año": "2021",
+  "reporteChat": [
+      {
+          "company":"Buk",
+          "Libreria":"ChartJS",
+          "metricas":
+          [
+            {
+                  "fecha": "Oct 1",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 2",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 3",
+                  "tiempo": 30
+                 },
+                 {
+                  "fecha": "Oct 4",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 5",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 6",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 7",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 8",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 9",
+                  "tiempo": 90
+                 },
+                 {
+                  "fecha": "Oct 10",
+                  "tiempo": 90
+                 }
+          ] 
+      }
+      ]
+}
